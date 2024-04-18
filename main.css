@@ -1,0 +1,42 @@
+body{
+    overflow: hidden;
+}
+.container{
+    height: 100vh;
+    width:100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero-section-left{
+    width: 40%;
+}
+.hero-section-right{
+    width: 60%;
+    margin-right: 40px;
+}
+img{
+    border-radius: 50%;
+    height: 300px;
+    width: 340px;
+    margin-left: 75px;
+}
+.hero-section-right h3{
+    line-height: 35px;
+}
+a{
+    text-decoration: none;
+    border: 2px solid black;
+    color: black;
+}
+p{
+    font-size: 18px;
+}
+h2{
+    font-size: 28px;
+    margin-left: 170px;
+}
+.link{
+    margin-left: 190px;
+
+}
